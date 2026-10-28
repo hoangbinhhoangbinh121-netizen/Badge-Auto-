@@ -1,0 +1,15 @@
+{
+  "name": "auto-badge-bot",
+  "version": "1.0.0",
+  "description": "Discord badge spoofer bot — Node.js port",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}

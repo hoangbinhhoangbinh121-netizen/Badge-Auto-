@@ -1,0 +1,4 @@
+node_modules/
+.env
+science_state.json
+data/games.json
